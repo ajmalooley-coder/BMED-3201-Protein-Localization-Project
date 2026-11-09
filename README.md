@@ -1,1 +1,0 @@
-# BMED-3201-Protein-Localization-Project

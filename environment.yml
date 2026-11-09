@@ -1,0 +1,10 @@
+name: /home/hice1/jisaacson7/miniconda3/envs/BMED_3201_Project
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - ipykernel
+  - scikit-image
+prefix: /home/hice1/jisaacson7/miniconda3/envs/BMED_3201_Project
